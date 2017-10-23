@@ -3,3 +3,6 @@
 ################################################################################
 
 /IdentityServerApp/bin/Debug/netcoreapp2.0
+/IdentityServerApp/obj
+/MVCApp/bin/Debug/netcoreapp2.0
+/MVCApp/obj
